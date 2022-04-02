@@ -2,5 +2,4 @@
 
 Once you clone the repository<br/>
 Run npm install<br />
-start your emulator and run `react-native run-android`<br/>
-Runs the app locally.<br />
+To run the app locally.<br />start your emulator and run `react-native run-android`<br/>
